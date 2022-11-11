@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+head{
+  text-align: center;
+  padding: 70;
+}
+img{
+  align-items: center;
+}
+nav{
+  text-align: center;
+}
+a{
+  padding: 10px;
+  background: blue;
+}
+section.img{
+  font-size: small;
+  align-items: center;
+}
+p{
+  width: 800px;
+  text-align: center;
+}
+div{
+  text-align: center;
+  background-color: blue;
+  width: 25%;
+}
